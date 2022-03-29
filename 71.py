@@ -1,0 +1,1 @@
+print('Hello\nI\'m 20 years old\nand want to be \'cool\' guy\nnice to meet you')
