@@ -1,0 +1,6 @@
+print(True & False)
+print(True ^ (True | False))
+print((True | False) | False)
+print((True ^ False) ^ (False ^ False))
+print(True & (False ^ False) ^ True)
+print(False | (False | False) ^ False)
