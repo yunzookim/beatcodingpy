@@ -1,7 +1,5 @@
-from subprocess import list2cmdline
-
-
 list1 = ['a', 'c', 'd', 'b', 'e']
 print(list1)
-for i in sorted(list1):
-    
+list2=sorted(list1)
+print(list2)
+print(list2[::-1])
